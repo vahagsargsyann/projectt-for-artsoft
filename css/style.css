@@ -1,0 +1,387 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.glavni{
+    width: 100%;
+    height: 763px;
+    background-image: url(../img/bg1-scaled.jpg);
+}
+.logo{
+    width: 419px;
+    height: 429px;
+    position: absolute;
+    left: 115px;
+    top: 290px;
+}
+h1{
+    color:white;
+    font-size: 50px;
+}
+span{
+    font-size: 40px;
+    
+    
+}
+.blue{
+    color: #B0C8EB;
+}
+.white{
+    color: white;
+}
+.div1{
+    width: 175px;
+    height: 58px;
+    background-color: #1baddd;
+    border-radius: 25px;
+    position: absolute;
+    top: 270px;
+
+}
+.whitee1{
+    color: white;
+    font-size: 25px;
+left: 20px;
+top: 15px;
+position: absolute;
+}
+.div1:hover {
+    background-color: aqua;
+    width: 185px;
+    height: 63px;
+}
+.div2{
+    width: 100%;
+    height: 660px;
+    background-color: #0F1E31;
+    position: absolute;
+    top: 763px;
+}
+.be{
+    color: #FCFC00;
+}
+.h1{
+    position: absolute;
+  top: 25px;
+  left: 500px;
+}
+.a{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 250px;
+    top: 130px;
+}
+.b{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 300px;
+    top: 220px;
+}
+.c{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 550px;
+    top: 180px;
+}
+.d{color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 240px;
+    top: 270px;
+
+}
+.e{color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 500px;
+    top: 320px;
+
+  
+}
+.red{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 650px;
+    top: 350px;
+}
+.div4{
+    width: 315px;
+    height: 205px;
+   
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    
+}
+.h2{font-size: 25px;
+    color: #D38700;
+    position: absolute;
+    left: 110px;
+    top: 50px;
+}
+.asa{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    left: 110px;
+    top: 80px;
+}
+.chek{
+    width: 175px;
+    height: 58px;
+    background-color:#1baddd;
+    border-radius: 30px;
+    position: absolute;
+    top: 150px;
+    left: 80px;
+
+}
+.buy{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.img{
+    width: 768px;
+    height: 763px;
+    background-image: url(../img/BeetCoinSmall-768x763.png);
+    position: absolute;
+    left: 580px;
+}
+.mas3{
+    width: 100%;
+    height: 680px;
+    position: absolute;
+    top: 1420px;
+    background-color: #0A1B2F;
+    display: flex;
+}
+.h11{
+    color:#FCFC00;
+    font-size: 50px;
+    position: absolute;
+    top: 25px;
+    left: 470px;
+}
+.be1{
+    color:white;
+    font-size: 50px;
+}
+.img1{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/Button1-pcfyrvms6vde99zmi5tz77k1c2eapza6g6ar1uu3p8.png);
+    position: absolute;
+    left: 380px;
+    top: 160px;
+
+}
+.img2{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/Button2-pcfyrwkmdpeokvy9co8lrpbhxg9nxodwsay8j4spj0.png);
+    position: absolute;
+    left: 380px;
+    top: 280px;
+}
+.img3{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/Button3-pcfyrxigkjfywhww76n8c72yiu515dhn4flq0erbcs.png);
+    position: absolute;
+    left: 380px;
+    top:380px;
+}
+.img4{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/Button4-pcfyrygardh983vj1p1uwouf480ed2ldgk97hopx6k.png);
+    position: absolute;
+    left: 380px;
+    top: 500px;
+}
+.aa{
+    font-size: 25px ;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 160px;
+
+}
+.ss{
+    font-size: 25px ;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 290px;
+
+}
+.dd{
+    font-size: 25px ;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 390px;
+
+}
+.ff{
+    font-size: 25px ;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 510px;
+
+}
+.AD{
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+    top: 50px;
+    left: 100px;
+    position: absolute;
+}
+.check{
+    width: 175px;
+    height: 58px;
+    background-color:#1baddd;
+    border-radius: 30px;
+    position: absolute;
+    top: 600px;
+    left: 600px;
+
+}
+.buyy{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.mas5{
+    width: 100%;
+    height: 700px;
+    background-color: #0D1C2F;
+    position: absolute;
+    top: 2100px;
+}
+.qarakusi{
+    width: 1100px;
+    height: 650px;
+   
+   position: absolute;
+   left: 125px;
+   top: 50px;
+   display: flex;
+   justify-content: space-between;
+}
+.mas6{
+    width: 330px;
+    height: 300px;
+    background-color: #50536F;
+    border-radius: 10px;
+}
+.vahag{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+.vahag1{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 450px;
+}
+.vahag2{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 850px;
+}
+.hr58{
+    width: 290px;
+    height: 8px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+.hr59{
+    width: 290px;
+    height: 8px;
+    position: absolute;
+    top: 50px;
+    left: 405px;
+}
+.hr60{
+    width: 290px;
+    height: 8px;
+    position: absolute;
+    top: 50px;
+    left: 790px;
+}
+.artsoft{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 20px;
+    top: 80px;
+}
+.artsoft1{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 410px;
+    top: 80px;
+}
+.artsoft3{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 410px;
+    top: 230px;
+}
+.artsoft2{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    left: 790px;
+    top: 80px;
+}
+.ok{
+    color: white;
+    position: absolute;
+    top: 340px;
+    left: 350px;
+}
+.okk{
+    color: #FCFC00;
+}
+.pp{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 440px;
+    left: 300px;
+}
+.ppp{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 500px;
+    left: 310px;
+}
+.pppp{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 550px;
+    left: 400px;
+}
